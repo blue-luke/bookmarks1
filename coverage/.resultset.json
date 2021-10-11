@@ -1,0 +1,36 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/bernardleanse/Projects/bookmarks1/app.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          0,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          null
+        ]
+      },
+      "/Users/bernardleanse/Projects/bookmarks1/spec/features/feature_spec.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      }
+    },
+    "timestamp": 1633960982
+  }
+}
